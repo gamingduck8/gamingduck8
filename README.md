@@ -12,9 +12,9 @@ mi chiamo Morandi Gabriele
 
 Ho già avuto occasione di utilizzare o conoscere:
 
-- visual studio
-- ...
-- ...
+- html
+- scratch
+- flowghoritm
 
 ## 🧠 Una cosa che potrei insegnare ai miei compagni
 

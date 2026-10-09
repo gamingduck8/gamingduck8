@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👤 Qualcosa su di me
 
-<!--
-**gamingduck8/gamingduck8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mi chiamo Morandi Gabriele
 
-Here are some ideas to get you started:
+## ❤️ Le mie passioni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- gioco a calcio
+- giocare ai videogiochi
+- allenarmi
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- visual studio
+- ...
+- ...
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+in questo momento niente
+
+## 🔍 Cosa mi piacerebbe imparare
+
+mi piacerebbe programmare e creare un videogioco
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+creare un videogioco
+
+## 🎯 Guardando al futuro
+
+vorrei fare il programmatore
